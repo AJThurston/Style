@@ -1,2 +1,2 @@
-# style
+# Style
 Custom CSS Style
