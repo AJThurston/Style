@@ -1,0 +1,74 @@
+body {
+  background-color: #00000003;
+}
+
+p {
+  font-family: "Arial Nova", sans-serif;
+  font-size: 14pt;
+  letter-spacing: .1618pt;
+  margin: 0px 10px 10px 0px; 
+  padding: 0px 0px 0px 2px;
+  color: rgba(0, 0, 0, .9);
+  line-height: 1.618;
+}
+
+h1 {
+  font-family: "Arial Nova", sans-serif;
+  font-size: 26pt;
+  letter-spacing: .1618pt;
+  color: rgba(255, 255, 255, 1);
+  margin: 0px 10px 10px 0px;
+  padding: 10px 0px 10px 10px;
+  background-color: rgba(51, 102, 102, .95);
+}
+
+h2 {
+  font-family: "Arial Nova", sans-serif;
+  font-size: 20pt;
+  letter-spacing:0.1pt;
+  background-color: rgba(51, 102, 102, .25);
+  color: rgba(0, 0, 0, .9);
+  margin: 0px 10px 10px 0px;
+  padding: 5px 5px 5px 5px;
+}
+
+h3 {
+  font-family: "Arial Nova", sans-serif;
+  font-size: 18pt;
+  letter-spacing:0.05pt;
+  color: rgba(0, 0, 0, .9);
+  margin: 0px 10px 10px 0px;
+  padding: 0px 5px 5px 0px;
+  border-bottom: 2px solid rgba(51, 153, 153, .9);
+
+}
+
+a {
+  color: rgba(0, 0, 0, 0.8);
+  text-decoration: underline;
+}
+
+a:hover {
+ color: #50a0b0; /* darker color when hovering */
+}
+
+/*
+p, samp {
+  font-size: 16px;
+  font-family: Arial Nova, sans-serif;
+  color: #010101;
+  line-height: 1.618;
+}
+
+h1, h2, h3, h4{
+  font-size: 26pt;
+  : underline;
+  background-color: #343434;
+  color: #efefef;
+  padding: 5px;
+}
+
+h2{
+  font-size: 20pt;
+}
+*/
